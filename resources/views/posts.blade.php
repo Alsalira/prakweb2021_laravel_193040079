@@ -17,6 +17,8 @@
         <p class="text-center fs-4">No post found.</p>
     @endif
 
+
+    
 @foreach ( $posts as $post)
 <article class="mb-5 border-bottom pb-4">
     <h2>
